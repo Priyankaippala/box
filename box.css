@@ -1,0 +1,34 @@
+.main{
+    background-color:rgb(250, 236, 223);
+}
+.first,.fourth{
+    background-color:blue;
+    width:200px;
+    height:200px;
+}
+.second,.fifth{
+    background-color:green;
+    width:200px;
+    height:200px;
+}
+.third,.sixth{
+    background-color:pink;
+    width:200px;
+    height:200px;
+    margin-left:400px;
+}
+.second{
+    margin-left:200px;
+}
+.third{
+    margin-left:400px;
+}
+.fourth{
+    margin-left:600px;
+}
+.fifth{
+    margin-left:800px;
+}
+.sixth{
+    margin-left:1000px;
+}
